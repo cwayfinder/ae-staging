@@ -1,0 +1,7 @@
+{
+  "name": "AE Staging",
+  "short_name": "AE",
+  "display": "fullscreen",
+  "scope": "/ae-staging/",
+  "start_url": "/ae-staging/"
+}
