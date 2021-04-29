@@ -1,0 +1,518 @@
+{
+    "id": "skirmish_001_169",
+    "type": "skirmish",
+    "size": {
+        "width": 20,
+        "height": 8
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 3,
+            "type": "ai",
+            "teamId": 3,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 4,
+            "type": "ai",
+            "teamId": 4,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [
+        {
+            "cell": {
+                "x": 1,
+                "y": 5
+            },
+            "type": "commander",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 4
+            },
+            "type": "commander",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 3
+            },
+            "type": "commander",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 2
+            },
+            "type": "commander",
+            "ownerId": 1
+        }
+    ],
+    "buildings": [
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 6
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 3
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 3
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 3
+            },
+            "type": "castle",
+            "ownerId": 4,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        }
+    ],
+    "terrains": {
+        "x0y0": "forest-1",
+        "x0y1": "stone-1",
+        "x0y2": "forest-1",
+        "x0y3": "stone-1",
+        "x0y4": "stone-1",
+        "x0y5": "forest-2",
+        "x0y6": "hill-1",
+        "x0y7": "stone-1",
+        "x1y0": "hill-1",
+        "x1y1": "road-1",
+        "x1y2": "terra-1",
+        "x1y3": "terra-1",
+        "x1y4": "terra-1",
+        "x1y5": "terra-1",
+        "x1y6": "road-1",
+        "x1y7": "forest-2",
+        "x2y0": "forest-2",
+        "x2y1": "terra-1",
+        "x2y2": "terra-1",
+        "x2y3": "hill-1",
+        "x2y4": "terra-1",
+        "x2y5": "terra-1",
+        "x2y6": "terra-1",
+        "x2y7": "hill-1",
+        "x3y0": "hill-1",
+        "x3y1": "stone-1",
+        "x3y2": "forest-2",
+        "x3y3": "terra-1",
+        "x3y4": "hill-1",
+        "x3y5": "terra-1",
+        "x3y6": "stone-1",
+        "x3y7": "terra-1",
+        "x4y0": "stone-1",
+        "x4y1": "terra-1",
+        "x4y2": "hill-1",
+        "x4y3": "stone-1",
+        "x4y4": "road-1",
+        "x4y5": "stone-1",
+        "x4y6": "terra-1",
+        "x4y7": "terra-1",
+        "x5y0": "terra-1",
+        "x5y1": "forest-2",
+        "x5y2": "terra-1",
+        "x5y3": "terra-1",
+        "x5y4": "terra-1",
+        "x5y5": "stone-1",
+        "x5y6": "terra-1",
+        "x5y7": "forest-2",
+        "x6y0": "terra-1",
+        "x6y1": "terra-1",
+        "x6y2": "terra-1",
+        "x6y3": "terra-1",
+        "x6y4": "terra-1",
+        "x6y5": "terra-1",
+        "x6y6": "terra-1",
+        "x6y7": "terra-1",
+        "x7y0": "terra-1",
+        "x7y1": "terra-1",
+        "x7y2": "road-1",
+        "x7y3": "road-1",
+        "x7y4": "road-1",
+        "x7y5": "terra-1",
+        "x7y6": "terra-1",
+        "x7y7": "hill-1",
+        "x8y0": "terra-1",
+        "x8y1": "terra-1",
+        "x8y2": "road-1",
+        "x8y3": "road-1",
+        "x8y4": "road-1",
+        "x8y5": "hill-1",
+        "x8y6": "hill-1",
+        "x8y7": "stone-1",
+        "x9y0": "hill-1",
+        "x9y1": "terra-1",
+        "x9y2": "road-1",
+        "x9y3": "road-1",
+        "x9y4": "road-1",
+        "x9y5": "stone-1",
+        "x9y6": "stone-1",
+        "x9y7": "hill-1",
+        "x10y0": "hill-1",
+        "x10y1": "stone-1",
+        "x10y2": "hill-1",
+        "x10y3": "hill-1",
+        "x10y4": "stone-1",
+        "x10y5": "hill-1",
+        "x10y6": "hill-1",
+        "x10y7": "terra-1",
+        "x11y0": "stone-1",
+        "x11y1": "hill-1",
+        "x11y2": "stone-1",
+        "x11y3": "stone-1",
+        "x11y4": "hill-1",
+        "x11y5": "terra-2",
+        "x11y6": "terra-1",
+        "x11y7": "terra-1",
+        "x12y0": "hill-1",
+        "x12y1": "terra-1",
+        "x12y2": "hill-1",
+        "x12y3": "terra-1",
+        "x12y4": "terra-5",
+        "x12y5": "terra-3",
+        "x12y6": "terra-1",
+        "x12y7": "terra-1",
+        "x13y0": "terra-1",
+        "x13y1": "terra-1",
+        "x13y2": "terra-1",
+        "x13y3": "terra-1",
+        "x13y4": "terra-1",
+        "x13y5": "terra-4",
+        "x13y6": "terra-1",
+        "x13y7": "terra-1",
+        "x14y0": "terra-1",
+        "x14y1": "hill-1",
+        "x14y2": "forest-1",
+        "x14y3": "forest-1",
+        "x14y4": "stone-1",
+        "x14y5": "forest-1",
+        "x14y6": "forest-1",
+        "x14y7": "terra-1",
+        "x15y0": "terra-1",
+        "x15y1": "forest-1",
+        "x15y2": "forest-2",
+        "x15y3": "terra-1",
+        "x15y4": "terra-1",
+        "x15y5": "forest-2",
+        "x15y6": "forest-1",
+        "x15y7": "stone-1",
+        "x16y0": "forest-1",
+        "x16y1": "forest-2",
+        "x16y2": "terra-1",
+        "x16y3": "hill-1",
+        "x16y4": "terra-1",
+        "x16y5": "terra-1",
+        "x16y6": "forest-2",
+        "x16y7": "forest-1",
+        "x17y0": "forest-1",
+        "x17y1": "terra-1",
+        "x17y2": "terra-1",
+        "x17y3": "road-1",
+        "x17y4": "road-1",
+        "x17y5": "stone-1",
+        "x17y6": "terra-1",
+        "x17y7": "forest-2",
+        "x18y0": "forest-1",
+        "x18y1": "terra-1",
+        "x18y2": "terra-1",
+        "x18y3": "road-1",
+        "x18y4": "road-1",
+        "x18y5": "hill-1",
+        "x18y6": "terra-1",
+        "x18y7": "forest-1",
+        "x19y0": "stone-1",
+        "x19y1": "forest-2",
+        "x19y2": "terra-1",
+        "x19y3": "hill-1",
+        "x19y4": "forest-2",
+        "x19y5": "terra-1",
+        "x19y6": "forest-2",
+        "x19y7": "forest-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Forest mountains",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Лес против гор",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "El bosque de las montañas",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

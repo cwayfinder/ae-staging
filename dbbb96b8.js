@@ -1,0 +1,1 @@
+class s{constructor(s,e,t){this.level=s,this.type=e,this.details=t}}window.eventService=new class{constructor(){this.listeners=[]}addListener(s){this.listeners.push(s)}removeListener(s){this.listeners=this.listeners.filter((e=>e!==s))}emitEvent(s){for(const e of this.listeners)e(JSON.parse(JSON.stringify(s)))}};export{s as B};

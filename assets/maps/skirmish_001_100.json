@@ -1,0 +1,293 @@
+{
+    "id": "skirmish_001_100",
+    "type": "skirmish",
+    "size": {
+        "width": 10,
+        "height": 10
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [
+        {
+            "cell": {
+                "x": 9,
+                "y": 9
+            },
+            "type": "commander",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "type": "commander",
+            "ownerId": 1
+        }
+    ],
+    "buildings": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 7
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 0
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 9
+            },
+            "type": "farm",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 9
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "stone-1",
+        "x0y1": "terra-2",
+        "x0y2": "terra-1",
+        "x0y3": "road-1",
+        "x0y4": "terra-1",
+        "x0y5": "terra-1",
+        "x0y6": "terra-1",
+        "x0y7": "terra-1",
+        "x0y8": "forest-1",
+        "x0y9": "forest-2",
+        "x1y0": "terra-5",
+        "x1y1": "terra-3",
+        "x1y2": "terra-1",
+        "x1y3": "road-1",
+        "x1y4": "road-1",
+        "x1y5": "road-1",
+        "x1y6": "road-1",
+        "x1y7": "stone-1",
+        "x1y8": "terra-1",
+        "x1y9": "hill-1",
+        "x2y0": "stone-1",
+        "x2y1": "terra-4",
+        "x2y2": "forest-1",
+        "x2y3": "terra-1",
+        "x2y4": "terra-1",
+        "x2y5": "forest-2",
+        "x2y6": "road-1",
+        "x2y7": "terra-1",
+        "x2y8": "terra-1",
+        "x2y9": "forest-1",
+        "x3y0": "stone-1",
+        "x3y1": "terra-1",
+        "x3y2": "forest-2",
+        "x3y3": "forest-1",
+        "x3y4": "terra-1",
+        "x3y5": "terra-1",
+        "x3y6": "road-1",
+        "x3y7": "road-1",
+        "x3y8": "terra-1",
+        "x3y9": "stone-1",
+        "x4y0": "stone-1",
+        "x4y1": "forest-1",
+        "x4y2": "hill-1",
+        "x4y3": "forest-2",
+        "x4y4": "forest-1",
+        "x4y5": "forest-2",
+        "x4y6": "road-1",
+        "x4y7": "terra-1",
+        "x4y8": "terra-1",
+        "x4y9": "terra-1",
+        "x5y0": "stone-1",
+        "x5y1": "stone-1",
+        "x5y2": "forest-1",
+        "x5y3": "terra-1",
+        "x5y4": "forest-2",
+        "x5y5": "forest-1",
+        "x5y6": "road-1",
+        "x5y7": "hill-1",
+        "x5y8": "terra-1",
+        "x5y9": "stone-1",
+        "x6y0": "stone-1",
+        "x6y1": "stone-1",
+        "x6y2": "water-1",
+        "x6y3": "water-1",
+        "x6y4": "hill-1",
+        "x6y5": "forest-1",
+        "x6y6": "road-1",
+        "x6y7": "road-1",
+        "x6y8": "terra-1",
+        "x6y9": "terra-1",
+        "x7y0": "terra-1",
+        "x7y1": "stone-1",
+        "x7y2": "water-1",
+        "x7y3": "water-1",
+        "x7y4": "hill-1",
+        "x7y5": "forest-1",
+        "x7y6": "hill-1",
+        "x7y7": "road-1",
+        "x7y8": "road-1",
+        "x7y9": "terra-1",
+        "x8y0": "hill-1",
+        "x8y1": "terra-1",
+        "x8y2": "bridge-2",
+        "x8y3": "bridge-2",
+        "x8y4": "stone-1",
+        "x8y5": "stone-1",
+        "x8y6": "forest-2",
+        "x8y7": "terra-1",
+        "x8y8": "road-1",
+        "x8y9": "road-1",
+        "x9y0": "forest-1",
+        "x9y1": "terra-1",
+        "x9y2": "water-1",
+        "x9y3": "water-1",
+        "x9y4": "forest-1",
+        "x9y5": "hill-1",
+        "x9y6": "terra-1",
+        "x9y7": "stone-1",
+        "x9y8": "terra-1",
+        "x9y9": "road-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Down",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Спуск",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "Abajo",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "id": "skirmish_001_129",
+    "type": "skirmish",
+    "size": {
+        "width": 15,
+        "height": 5
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [],
+    "buildings": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 2
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 2
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 13,
+                "y": 2
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 1
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 2
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 3
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "road-1",
+        "x0y1": "road-1",
+        "x0y2": "road-1",
+        "x0y3": "road-1",
+        "x0y4": "road-1",
+        "x1y0": "road-1",
+        "x1y1": "road-1",
+        "x1y2": "road-1",
+        "x1y3": "road-1",
+        "x1y4": "road-1",
+        "x2y0": "stone-1",
+        "x2y1": "stone-1",
+        "x2y2": "stone-1",
+        "x2y3": "stone-1",
+        "x2y4": "stone-1",
+        "x3y0": "road-1",
+        "x3y1": "road-1",
+        "x3y2": "road-1",
+        "x3y3": "road-1",
+        "x3y4": "road-1",
+        "x4y0": "road-1",
+        "x4y1": "road-1",
+        "x4y2": "road-1",
+        "x4y3": "road-1",
+        "x4y4": "road-1",
+        "x5y0": "road-1",
+        "x5y1": "road-1",
+        "x5y2": "road-1",
+        "x5y3": "road-1",
+        "x5y4": "road-1",
+        "x6y0": "road-1",
+        "x6y1": "road-1",
+        "x6y2": "road-1",
+        "x6y3": "road-1",
+        "x6y4": "road-1",
+        "x7y0": "stone-1",
+        "x7y1": "stone-1",
+        "x7y2": "stone-1",
+        "x7y3": "stone-1",
+        "x7y4": "stone-1",
+        "x8y0": "road-1",
+        "x8y1": "road-1",
+        "x8y2": "road-1",
+        "x8y3": "road-1",
+        "x8y4": "road-1",
+        "x9y0": "road-1",
+        "x9y1": "road-1",
+        "x9y2": "road-1",
+        "x9y3": "road-1",
+        "x9y4": "road-1",
+        "x10y0": "road-1",
+        "x10y1": "road-1",
+        "x10y2": "road-1",
+        "x10y3": "road-1",
+        "x10y4": "road-1",
+        "x11y0": "road-1",
+        "x11y1": "road-1",
+        "x11y2": "road-1",
+        "x11y3": "road-1",
+        "x11y4": "road-1",
+        "x12y0": "stone-1",
+        "x12y1": "stone-1",
+        "x12y2": "stone-1",
+        "x12y3": "stone-1",
+        "x12y4": "stone-1",
+        "x13y0": "road-1",
+        "x13y1": "road-1",
+        "x13y2": "road-1",
+        "x13y3": "road-1",
+        "x13y4": "road-1",
+        "x14y0": "road-1",
+        "x14y1": "road-1",
+        "x14y2": "road-1",
+        "x14y3": "road-1",
+        "x14y4": "road-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Through the crowd",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Сквозь толпу",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "A través de la multitud",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

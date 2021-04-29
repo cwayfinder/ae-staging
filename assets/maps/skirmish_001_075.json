@@ -1,0 +1,500 @@
+{
+    "id": "skirmish_001_075",
+    "type": "skirmish",
+    "size": {
+        "width": 10,
+        "height": 10
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [
+        {
+            "cell": {
+                "x": 5,
+                "y": 8
+            },
+            "type": "commander",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "type": "commander",
+            "ownerId": 1
+        }
+    ],
+    "buildings": [
+        {
+            "cell": {
+                "x": 1,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 8
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 8
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 5
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 4
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 8
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 2
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 8
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "water-1",
+        "x0y1": "water-1",
+        "x0y2": "water-1",
+        "x0y3": "water-1",
+        "x0y4": "water-1",
+        "x0y5": "water-1",
+        "x0y6": "water-1",
+        "x0y7": "water-1",
+        "x0y8": "water-1",
+        "x0y9": "water-1",
+        "x1y0": "water-1",
+        "x1y1": "terra-1",
+        "x1y2": "terra-1",
+        "x1y3": "terra-1",
+        "x1y4": "terra-1",
+        "x1y5": "terra-1",
+        "x1y6": "terra-1",
+        "x1y7": "terra-1",
+        "x1y8": "terra-1",
+        "x1y9": "water-1",
+        "x2y0": "water-1",
+        "x2y1": "terra-1",
+        "x2y2": "terra-1",
+        "x2y3": "terra-1",
+        "x2y4": "terra-1",
+        "x2y5": "terra-1",
+        "x2y6": "terra-1",
+        "x2y7": "terra-1",
+        "x2y8": "terra-1",
+        "x2y9": "water-1",
+        "x3y0": "water-1",
+        "x3y1": "terra-1",
+        "x3y2": "terra-1",
+        "x3y3": "terra-1",
+        "x3y4": "terra-1",
+        "x3y5": "terra-1",
+        "x3y6": "terra-1",
+        "x3y7": "terra-1",
+        "x3y8": "terra-1",
+        "x3y9": "water-1",
+        "x4y0": "water-1",
+        "x4y1": "road-1",
+        "x4y2": "terra-1",
+        "x4y3": "terra-1",
+        "x4y4": "terra-1",
+        "x4y5": "road-1",
+        "x4y6": "terra-1",
+        "x4y7": "terra-1",
+        "x4y8": "terra-1",
+        "x4y9": "water-1",
+        "x5y0": "water-1",
+        "x5y1": "terra-1",
+        "x5y2": "terra-1",
+        "x5y3": "terra-1",
+        "x5y4": "road-1",
+        "x5y5": "terra-1",
+        "x5y6": "terra-1",
+        "x5y7": "terra-1",
+        "x5y8": "road-1",
+        "x5y9": "water-1",
+        "x6y0": "water-1",
+        "x6y1": "terra-1",
+        "x6y2": "terra-1",
+        "x6y3": "terra-1",
+        "x6y4": "terra-1",
+        "x6y5": "terra-1",
+        "x6y6": "terra-1",
+        "x6y7": "terra-1",
+        "x6y8": "terra-1",
+        "x6y9": "water-1",
+        "x7y0": "water-1",
+        "x7y1": "terra-1",
+        "x7y2": "terra-1",
+        "x7y3": "terra-1",
+        "x7y4": "terra-1",
+        "x7y5": "terra-1",
+        "x7y6": "terra-1",
+        "x7y7": "terra-1",
+        "x7y8": "terra-1",
+        "x7y9": "water-1",
+        "x8y0": "water-1",
+        "x8y1": "terra-1",
+        "x8y2": "terra-1",
+        "x8y3": "terra-1",
+        "x8y4": "terra-1",
+        "x8y5": "terra-1",
+        "x8y6": "terra-1",
+        "x8y7": "terra-1",
+        "x8y8": "terra-1",
+        "x8y9": "water-1",
+        "x9y0": "water-1",
+        "x9y1": "water-1",
+        "x9y2": "water-1",
+        "x9y3": "water-1",
+        "x9y4": "water-1",
+        "x9y5": "water-1",
+        "x9y6": "water-1",
+        "x9y7": "water-1",
+        "x9y8": "water-1",
+        "x9y9": "water-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Parquet",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Паркет",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "Parquet",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

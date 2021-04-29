@@ -1,0 +1,1774 @@
+{
+    "id": "skirmish_001_175",
+    "type": "skirmish",
+    "size": {
+        "width": 22,
+        "height": 22
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 3,
+            "type": "ai",
+            "teamId": 3,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 4,
+            "type": "ai",
+            "teamId": 4,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 14
+            },
+            "type": "soldier",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 14
+            },
+            "type": "soldier",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 14
+            },
+            "type": "soldier",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 13
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 12
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 11
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 10
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 10
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 11
+            },
+            "type": "dire-wolf",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 12
+            },
+            "type": "commander",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 13
+            },
+            "type": "soldier",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 9
+            },
+            "type": "dragon",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 9
+            },
+            "type": "dragon",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "type": "skeleton",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "type": "skeleton",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 21
+            },
+            "type": "soldier",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 19
+            },
+            "type": "soldier",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 21
+            },
+            "type": "soldier",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 21
+            },
+            "type": "dire-wolf",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 21
+            },
+            "type": "dire-wolf",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 20
+            },
+            "type": "dire-wolf",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 20
+            },
+            "type": "dire-wolf",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 19
+            },
+            "type": "dire-wolf",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 19
+            },
+            "type": "catapult",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 18
+            },
+            "type": "dragon",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 18
+            },
+            "type": "dragon",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 18
+            },
+            "type": "dragon",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 20
+            },
+            "type": "commander",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 20
+            },
+            "type": "soldier",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 19
+            },
+            "type": "sorceress",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 0
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 0
+            },
+            "type": "commander",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 1
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 2
+            },
+            "type": "golem",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 4
+            },
+            "type": "golem",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 4
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 12,
+                "y": 1
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 8
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 0
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 2
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 3
+            },
+            "type": "sorceress",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 3
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 1
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 0
+            },
+            "type": "golem",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 1
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 2
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 3
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 7
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 8
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 11
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 9
+            },
+            "type": "skeleton",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 6
+            },
+            "type": "skeleton",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 10
+            },
+            "type": "golem",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 9
+            },
+            "type": "golem",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 6
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 7
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 8
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 10
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 11
+            },
+            "type": "soldier",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 11
+            },
+            "type": "archer",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 12
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 16
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 8,
+                "y": 18
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 20
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 13
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 21
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 16
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 17
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 19
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 19
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 20,
+                "y": 19
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 17
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 16
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 15
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 15
+            },
+            "type": "catapult",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 15
+            },
+            "type": "skeleton",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 13,
+                "y": 14
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 13,
+                "y": 13
+            },
+            "type": "archer",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 14
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 18
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 13
+            },
+            "type": "commander",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 14
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 9
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 7
+            },
+            "type": "golem",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 8
+            },
+            "type": "catapult",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 20,
+                "y": 12
+            },
+            "type": "dragon",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 12,
+                "y": 21
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 20
+            },
+            "type": "soldier",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 18,
+                "y": 16
+            },
+            "type": "sorceress",
+            "ownerId": 4
+        }
+    ],
+    "buildings": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 10
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 12
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 13
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 19
+            },
+            "type": "farm",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 20
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 21
+            },
+            "type": "farm",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 14
+            },
+            "type": "farm",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 9
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 13
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 18
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 0
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 1
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 3
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 9
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 6,
+                "y": 12
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 7,
+                "y": 21
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 8
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 9,
+                "y": 17
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 0
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 10,
+                "y": 10
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 10
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 11,
+                "y": 21
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 13,
+                "y": 13
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 13,
+                "y": 19
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 7
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 14,
+                "y": 14
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 0
+            },
+            "type": "farm",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 15,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 16,
+                "y": 4
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 2
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 7
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 13
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 16
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 17,
+                "y": 21
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 1
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 9
+            },
+            "type": "well",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 19,
+                "y": 18
+            },
+            "type": "temple",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 20,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 20,
+                "y": 5
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 20,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 5
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 6
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 12
+            },
+            "type": "farm",
+            "ownerId": 4,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 13
+            },
+            "type": "castle",
+            "ownerId": 4,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 14
+            },
+            "type": "farm",
+            "ownerId": 4,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 21,
+                "y": 19
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "terra-1",
+        "x0y1": "terra-1",
+        "x0y2": "forest-1",
+        "x0y3": "forest-1",
+        "x0y4": "water-1",
+        "x0y5": "water-1",
+        "x0y6": "forest-1",
+        "x0y7": "forest-1",
+        "x0y8": "forest-1",
+        "x0y9": "forest-1",
+        "x0y10": "terra-1",
+        "x0y11": "forest-1",
+        "x0y12": "road-1",
+        "x0y13": "terra-1",
+        "x0y14": "forest-1",
+        "x0y15": "water-1",
+        "x0y16": "water-1",
+        "x0y17": "forest-1",
+        "x0y18": "forest-1",
+        "x0y19": "terra-1",
+        "x0y20": "road-1",
+        "x0y21": "terra-1",
+        "x1y0": "terra-1",
+        "x1y1": "forest-1",
+        "x1y2": "forest-1",
+        "x1y3": "forest-1",
+        "x1y4": "water-1",
+        "x1y5": "water-1",
+        "x1y6": "terra-1",
+        "x1y7": "forest-1",
+        "x1y8": "forest-1",
+        "x1y9": "terra-1",
+        "x1y10": "terra-1",
+        "x1y11": "terra-1",
+        "x1y12": "terra-1",
+        "x1y13": "terra-1",
+        "x1y14": "terra-1",
+        "x1y15": "water-1",
+        "x1y16": "water-1",
+        "x1y17": "forest-1",
+        "x1y18": "forest-1",
+        "x1y19": "terra-1",
+        "x1y20": "terra-1",
+        "x1y21": "terra-1",
+        "x2y0": "terra-1",
+        "x2y1": "forest-1",
+        "x2y2": "forest-1",
+        "x2y3": "forest-1",
+        "x2y4": "water-1",
+        "x2y5": "water-1",
+        "x2y6": "terra-1",
+        "x2y7": "terra-1",
+        "x2y8": "terra-1",
+        "x2y9": "road-1",
+        "x2y10": "road-1",
+        "x2y11": "road-1",
+        "x2y12": "road-1",
+        "x2y13": "road-1",
+        "x2y14": "terra-1",
+        "x2y15": "water-1",
+        "x2y16": "water-1",
+        "x2y17": "forest-1",
+        "x2y18": "forest-1",
+        "x2y19": "terra-1",
+        "x2y20": "hill-1",
+        "x2y21": "terra-1",
+        "x3y0": "terra-1",
+        "x3y1": "hill-1",
+        "x3y2": "terra-1",
+        "x3y3": "road-1",
+        "x3y4": "bridge-2",
+        "x3y5": "bridge-2",
+        "x3y6": "road-1",
+        "x3y7": "road-1",
+        "x3y8": "road-1",
+        "x3y9": "road-1",
+        "x3y10": "hill-1",
+        "x3y11": "hill-1",
+        "x3y12": "hill-1",
+        "x3y13": "road-1",
+        "x3y14": "road-1",
+        "x3y15": "water-1",
+        "x3y16": "water-1",
+        "x3y17": "terra-1",
+        "x3y18": "terra-1",
+        "x3y19": "terra-1",
+        "x3y20": "terra-1",
+        "x3y21": "forest-1",
+        "x4y0": "terra-1",
+        "x4y1": "terra-1",
+        "x4y2": "road-1",
+        "x4y3": "road-1",
+        "x4y4": "water-1",
+        "x4y5": "water-1",
+        "x4y6": "hill-1",
+        "x4y7": "hill-1",
+        "x4y8": "hill-1",
+        "x4y9": "road-1",
+        "x4y10": "terra-1",
+        "x4y11": "terra-1",
+        "x4y12": "terra-1",
+        "x4y13": "road-1",
+        "x4y14": "road-1",
+        "x4y15": "bridge-2",
+        "x4y16": "road-1",
+        "x4y17": "terra-1",
+        "x4y18": "terra-1",
+        "x4y19": "terra-1",
+        "x4y20": "terra-1",
+        "x4y21": "forest-1",
+        "x5y0": "road-1",
+        "x5y1": "road-1",
+        "x5y2": "road-1",
+        "x5y3": "hill-1",
+        "x5y4": "water-1",
+        "x5y5": "water-1",
+        "x5y6": "forest-1",
+        "x5y7": "terra-1",
+        "x5y8": "terra-1",
+        "x5y9": "terra-1",
+        "x5y10": "terra-1",
+        "x5y11": "terra-1",
+        "x5y12": "terra-1",
+        "x5y13": "water-1",
+        "x5y14": "water-1",
+        "x5y15": "water-1",
+        "x5y16": "road-1",
+        "x5y17": "road-1",
+        "x5y18": "terra-1",
+        "x5y19": "terra-1",
+        "x5y20": "forest-1",
+        "x5y21": "forest-1",
+        "x6y0": "road-1",
+        "x6y1": "road-1",
+        "x6y2": "terra-1",
+        "x6y3": "terra-1",
+        "x6y4": "water-1",
+        "x6y5": "water-1",
+        "x6y6": "forest-1",
+        "x6y7": "forest-1",
+        "x6y8": "terra-1",
+        "x6y9": "terra-1",
+        "x6y10": "terra-1",
+        "x6y11": "terra-1",
+        "x6y12": "terra-1",
+        "x6y13": "water-1",
+        "x6y14": "water-1",
+        "x6y15": "water-1",
+        "x6y16": "hill-1",
+        "x6y17": "road-1",
+        "x6y18": "road-1",
+        "x6y19": "terra-1",
+        "x6y20": "forest-1",
+        "x6y21": "forest-1",
+        "x7y0": "terra-1",
+        "x7y1": "hill-1",
+        "x7y2": "terra-1",
+        "x7y3": "terra-1",
+        "x7y4": "water-1",
+        "x7y5": "water-1",
+        "x7y6": "forest-1",
+        "x7y7": "terra-1",
+        "x7y8": "terra-1",
+        "x7y9": "terra-1",
+        "x7y10": "forest-1",
+        "x7y11": "forest-1",
+        "x7y12": "forest-1",
+        "x7y13": "water-1",
+        "x7y14": "water-1",
+        "x7y15": "forest-1",
+        "x7y16": "forest-1",
+        "x7y17": "hill-1",
+        "x7y18": "road-1",
+        "x7y19": "road-1",
+        "x7y20": "terra-1",
+        "x7y21": "terra-1",
+        "x8y0": "terra-1",
+        "x8y1": "terra-1",
+        "x8y2": "terra-1",
+        "x8y3": "road-1",
+        "x8y4": "bridge-2",
+        "x8y5": "bridge-2",
+        "x8y6": "road-1",
+        "x8y7": "road-1",
+        "x8y8": "road-1",
+        "x8y9": "road-1",
+        "x8y10": "forest-1",
+        "x8y11": "forest-1",
+        "x8y12": "forest-1",
+        "x8y13": "water-1",
+        "x8y14": "water-1",
+        "x8y15": "forest-1",
+        "x8y16": "terra-1",
+        "x8y17": "terra-1",
+        "x8y18": "hill-1",
+        "x8y19": "road-1",
+        "x8y20": "road-1",
+        "x8y21": "terra-1",
+        "x9y0": "road-1",
+        "x9y1": "road-1",
+        "x9y2": "road-1",
+        "x9y3": "road-1",
+        "x9y4": "water-1",
+        "x9y5": "water-1",
+        "x9y6": "stone-1",
+        "x9y7": "stone-1",
+        "x9y8": "road-1",
+        "x9y9": "road-1",
+        "x9y10": "road-1",
+        "x9y11": "road-1",
+        "x9y12": "road-1",
+        "x9y13": "bridge-2",
+        "x9y14": "road-1",
+        "x9y15": "forest-1",
+        "x9y16": "terra-1",
+        "x9y17": "terra-1",
+        "x9y18": "forest-1",
+        "x9y19": "hill-1",
+        "x9y20": "road-1",
+        "x9y21": "road-1",
+        "x10y0": "road-1",
+        "x10y1": "hill-1",
+        "x10y2": "stone-1",
+        "x10y3": "stone-1",
+        "x10y4": "water-1",
+        "x10y5": "water-1",
+        "x10y6": "terra-1",
+        "x10y7": "terra-1",
+        "x10y8": "terra-1",
+        "x10y9": "stone-1",
+        "x10y10": "road-1",
+        "x10y11": "stone-1",
+        "x10y12": "water-1",
+        "x10y13": "water-1",
+        "x10y14": "road-1",
+        "x10y15": "terra-1",
+        "x10y16": "terra-1",
+        "x10y17": "forest-1",
+        "x10y18": "forest-1",
+        "x10y19": "terra-1",
+        "x10y20": "hill-1",
+        "x10y21": "road-1",
+        "x11y0": "terra-1",
+        "x11y1": "terra-1",
+        "x11y2": "terra-1",
+        "x11y3": "terra-1",
+        "x11y4": "water-1",
+        "x11y5": "water-1",
+        "x11y6": "water-1",
+        "x11y7": "terra-1",
+        "x11y8": "terra-1",
+        "x11y9": "terra-1",
+        "x11y10": "terra-1",
+        "x11y11": "water-1",
+        "x11y12": "water-1",
+        "x11y13": "water-1",
+        "x11y14": "road-1",
+        "x11y15": "terra-1",
+        "x11y16": "forest-1",
+        "x11y17": "forest-1",
+        "x11y18": "forest-1",
+        "x11y19": "hill-1",
+        "x11y20": "terra-1",
+        "x11y21": "road-1",
+        "x12y0": "terra-1",
+        "x12y1": "terra-1",
+        "x12y2": "terra-1",
+        "x12y3": "forest-1",
+        "x12y4": "water-1",
+        "x12y5": "water-1",
+        "x12y6": "water-1",
+        "x12y7": "terra-1",
+        "x12y8": "forest-1",
+        "x12y9": "terra-1",
+        "x12y10": "forest-1",
+        "x12y11": "water-1",
+        "x12y12": "water-1",
+        "x12y13": "water-1",
+        "x12y14": "road-1",
+        "x12y15": "road-1",
+        "x12y16": "forest-1",
+        "x12y17": "forest-1",
+        "x12y18": "terra-1",
+        "x12y19": "terra-1",
+        "x12y20": "terra-1",
+        "x12y21": "forest-1",
+        "x13y0": "terra-1",
+        "x13y1": "hill-1",
+        "x13y2": "terra-1",
+        "x13y3": "forest-1",
+        "x13y4": "water-1",
+        "x13y5": "water-1",
+        "x13y6": "terra-1",
+        "x13y7": "terra-1",
+        "x13y8": "forest-1",
+        "x13y9": "forest-1",
+        "x13y10": "forest-1",
+        "x13y11": "water-1",
+        "x13y12": "water-1",
+        "x13y13": "terra-1",
+        "x13y14": "stone-1",
+        "x13y15": "road-1",
+        "x13y16": "forest-1",
+        "x13y17": "forest-1",
+        "x13y18": "terra-1",
+        "x13y19": "terra-1",
+        "x13y20": "terra-1",
+        "x13y21": "forest-1",
+        "x14y0": "terra-1",
+        "x14y1": "terra-1",
+        "x14y2": "terra-1",
+        "x14y3": "terra-1",
+        "x14y4": "water-1",
+        "x14y5": "water-1",
+        "x14y6": "terra-1",
+        "x14y7": "terra-1",
+        "x14y8": "terra-1",
+        "x14y9": "forest-1",
+        "x14y10": "water-1",
+        "x14y11": "water-1",
+        "x14y12": "water-1",
+        "x14y13": "terra-1",
+        "x14y14": "road-1",
+        "x14y15": "road-1",
+        "x14y16": "road-1",
+        "x14y17": "terra-1",
+        "x14y18": "terra-1",
+        "x14y19": "terra-1",
+        "x14y20": "forest-1",
+        "x14y21": "forest-1",
+        "x15y0": "terra-1",
+        "x15y1": "terra-1",
+        "x15y2": "road-1",
+        "x15y3": "road-1",
+        "x15y4": "road-1",
+        "x15y5": "road-1",
+        "x15y6": "road-1",
+        "x15y7": "road-1",
+        "x15y8": "terra-1",
+        "x15y9": "water-1",
+        "x15y10": "water-1",
+        "x15y11": "water-1",
+        "x15y12": "water-1",
+        "x15y13": "terra-1",
+        "x15y14": "terra-1",
+        "x15y15": "stone-1",
+        "x15y16": "road-1",
+        "x15y17": "terra-1",
+        "x15y18": "hill-1",
+        "x15y19": "terra-1",
+        "x15y20": "forest-1",
+        "x15y21": "forest-1",
+        "x16y0": "road-1",
+        "x16y1": "road-1",
+        "x16y2": "road-1",
+        "x16y3": "stone-1",
+        "x16y4": "road-1",
+        "x16y5": "stone-1",
+        "x16y6": "stone-1",
+        "x16y7": "road-1",
+        "x16y8": "road-1",
+        "x16y9": "water-1",
+        "x16y10": "water-1",
+        "x16y11": "water-1",
+        "x16y12": "forest-1",
+        "x16y13": "forest-1",
+        "x16y14": "terra-1",
+        "x16y15": "terra-1",
+        "x16y16": "road-1",
+        "x16y17": "road-1",
+        "x16y18": "terra-1",
+        "x16y19": "terra-1",
+        "x16y20": "terra-1",
+        "x16y21": "forest-1",
+        "x17y0": "road-1",
+        "x17y1": "road-1",
+        "x17y2": "road-1",
+        "x17y3": "terra-1",
+        "x17y4": "terra-1",
+        "x17y5": "terra-1",
+        "x17y6": "terra-1",
+        "x17y7": "road-1",
+        "x17y8": "road-1",
+        "x17y9": "road-1",
+        "x17y10": "forest-1",
+        "x17y11": "forest-1",
+        "x17y12": "forest-1",
+        "x17y13": "terra-1",
+        "x17y14": "terra-1",
+        "x17y15": "terra-1",
+        "x17y16": "road-1",
+        "x17y17": "road-1",
+        "x17y18": "road-1",
+        "x17y19": "terra-1",
+        "x17y20": "terra-1",
+        "x17y21": "terra-1",
+        "x18y0": "road-1",
+        "x18y1": "stone-1",
+        "x18y2": "terra-1",
+        "x18y3": "terra-1",
+        "x18y4": "terra-1",
+        "x18y5": "hill-1",
+        "x18y6": "terra-1",
+        "x18y7": "terra-1",
+        "x18y8": "stone-1",
+        "x18y9": "road-1",
+        "x18y10": "road-1",
+        "x18y11": "forest-1",
+        "x18y12": "forest-1",
+        "x18y13": "terra-1",
+        "x18y14": "hill-1",
+        "x18y15": "terra-1",
+        "x18y16": "terra-1",
+        "x18y17": "stone-1",
+        "x18y18": "road-1",
+        "x18y19": "road-1",
+        "x18y20": "forest-1",
+        "x18y21": "forest-1",
+        "x19y0": "road-1",
+        "x19y1": "road-1",
+        "x19y2": "terra-1",
+        "x19y3": "road-1",
+        "x19y4": "road-1",
+        "x19y5": "road-1",
+        "x19y6": "road-1",
+        "x19y7": "road-1",
+        "x19y8": "terra-1",
+        "x19y9": "road-1",
+        "x19y10": "road-1",
+        "x19y11": "terra-1",
+        "x19y12": "terra-1",
+        "x19y13": "terra-1",
+        "x19y14": "terra-1",
+        "x19y15": "hill-1",
+        "x19y16": "terra-1",
+        "x19y17": "terra-1",
+        "x19y18": "road-1",
+        "x19y19": "road-1",
+        "x19y20": "road-1",
+        "x19y21": "forest-1",
+        "x20y0": "road-1",
+        "x20y1": "stone-1",
+        "x20y2": "terra-1",
+        "x20y3": "road-1",
+        "x20y4": "terra-1",
+        "x20y5": "terra-1",
+        "x20y6": "terra-1",
+        "x20y7": "road-1",
+        "x20y8": "terra-1",
+        "x20y9": "stone-1",
+        "x20y10": "road-1",
+        "x20y11": "terra-1",
+        "x20y12": "terra-1",
+        "x20y13": "terra-1",
+        "x20y14": "terra-1",
+        "x20y15": "terra-1",
+        "x20y16": "forest-1",
+        "x20y17": "forest-1",
+        "x20y18": "terra-1",
+        "x20y19": "stone-1",
+        "x20y20": "road-1",
+        "x20y21": "forest-1",
+        "x21y0": "road-1",
+        "x21y1": "stone-1",
+        "x21y2": "terra-1",
+        "x21y3": "road-1",
+        "x21y4": "terra-1",
+        "x21y5": "road-1",
+        "x21y6": "terra-1",
+        "x21y7": "road-1",
+        "x21y8": "terra-1",
+        "x21y9": "stone-1",
+        "x21y10": "road-1",
+        "x21y11": "terra-1",
+        "x21y12": "terra-1",
+        "x21y13": "road-1",
+        "x21y14": "terra-1",
+        "x21y15": "terra-1",
+        "x21y16": "forest-1",
+        "x21y17": "forest-1",
+        "x21y18": "forest-1",
+        "x21y19": "terra-1",
+        "x21y20": "road-1",
+        "x21y21": "forest-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Moscow",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Москва",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "Moscú",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

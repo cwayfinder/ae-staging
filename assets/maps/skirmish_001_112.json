@@ -1,0 +1,486 @@
+{
+    "id": "skirmish_001_112",
+    "type": "skirmish",
+    "size": {
+        "width": 6,
+        "height": 6
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 3,
+            "type": "ai",
+            "teamId": 3,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 4,
+            "type": "ai",
+            "teamId": 4,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "commander",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "type": "commander",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 2
+            },
+            "type": "commander",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 3
+            },
+            "type": "commander",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 5
+            },
+            "type": "catapult",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 5
+            },
+            "type": "catapult",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 0
+            },
+            "type": "catapult",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 0
+            },
+            "type": "catapult",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 4
+            },
+            "type": "catapult",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 5
+            },
+            "type": "catapult",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 5
+            },
+            "type": "catapult",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 4
+            },
+            "type": "catapult",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 1
+            },
+            "type": "catapult",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 0
+            },
+            "type": "catapult",
+            "ownerId": 2
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "type": "crystal",
+            "ownerId": 3
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 4
+            },
+            "type": "crystal",
+            "ownerId": 4
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 4
+            },
+            "type": "crystal",
+            "ownerId": 1
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "type": "crystal",
+            "ownerId": 2
+        }
+    ],
+    "buildings": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 5
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 5
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 2
+            },
+            "type": "castle",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 3
+            },
+            "type": "castle",
+            "ownerId": 4,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 4
+            },
+            "type": "farm",
+            "ownerId": null,
+            "state": "destroyed"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 5
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 1
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 5,
+                "y": 5
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "road-1",
+        "x0y1": "road-1",
+        "x0y2": "water-1",
+        "x0y3": "water-1",
+        "x0y4": "road-1",
+        "x0y5": "road-1",
+        "x1y0": "road-1",
+        "x1y1": "terra-1",
+        "x1y2": "water-1",
+        "x1y3": "water-1",
+        "x1y4": "terra-1",
+        "x1y5": "road-1",
+        "x2y0": "water-1",
+        "x2y1": "water-1",
+        "x2y2": "road-1",
+        "x2y3": "road-1",
+        "x2y4": "water-1",
+        "x2y5": "water-1",
+        "x3y0": "water-1",
+        "x3y1": "water-1",
+        "x3y2": "road-1",
+        "x3y3": "road-1",
+        "x3y4": "water-1",
+        "x3y5": "water-1",
+        "x4y0": "road-1",
+        "x4y1": "terra-1",
+        "x4y2": "water-1",
+        "x4y3": "water-1",
+        "x4y4": "terra-1",
+        "x4y5": "road-1",
+        "x5y0": "road-1",
+        "x5y1": "road-1",
+        "x5y2": "water-1",
+        "x5y3": "water-1",
+        "x5y4": "road-1",
+        "x5y5": "road-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Regret",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Сожаление",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "Lamentar",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

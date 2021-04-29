@@ -1,0 +1,179 @@
+{
+    "id": "skirmish_001_106",
+    "type": "skirmish",
+    "size": {
+        "width": 5,
+        "height": 5
+    },
+    "players": [
+        {
+            "id": 1,
+            "type": "human",
+            "teamId": 1,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 2,
+            "type": "ai",
+            "teamId": 2,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 3,
+            "type": "ai",
+            "teamId": 3,
+            "unitLimit": 25,
+            "money": 200
+        },
+        {
+            "id": 4,
+            "type": "ai",
+            "teamId": 4,
+            "unitLimit": 25,
+            "money": 200
+        }
+    ],
+    "units": [],
+    "buildings": [
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": 1,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": 2,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "type": "castle",
+            "ownerId": null,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 0
+            },
+            "type": "castle",
+            "ownerId": 3,
+            "state": "normal"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 4
+            },
+            "type": "castle",
+            "ownerId": 4,
+            "state": "normal"
+        }
+    ],
+    "terrains": {
+        "x0y0": "road-1",
+        "x0y1": "stone-1",
+        "x0y2": "stone-1",
+        "x0y3": "stone-1",
+        "x0y4": "road-1",
+        "x1y0": "stone-1",
+        "x1y1": "water-1",
+        "x1y2": "water-1",
+        "x1y3": "water-1",
+        "x1y4": "stone-1",
+        "x2y0": "stone-1",
+        "x2y1": "water-1",
+        "x2y2": "road-1",
+        "x2y3": "water-1",
+        "x2y4": "stone-1",
+        "x3y0": "stone-1",
+        "x3y1": "water-1",
+        "x3y2": "water-1",
+        "x3y3": "water-1",
+        "x3y4": "stone-1",
+        "x4y0": "road-1",
+        "x4y1": "stone-1",
+        "x4y2": "stone-1",
+        "x4y3": "stone-1",
+        "x4y4": "road-1"
+    },
+    "triggers": [
+        {
+            "id": 1,
+            "conditions": [
+                {
+                    "type": "round",
+                    "round": 1
+                }
+            ],
+            "scriptId": "start"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "start",
+            "items": [
+                {
+                    "type": "objective"
+                }
+            ]
+        }
+    ],
+    "i18n": {
+        "en": {
+            "name": "Mini 2",
+            "objective": "Defeat the enemy commander and capture all enemy castles!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "ru": {
+            "name": "Мини 2",
+            "objective": "Поразить вражеского командира и захватить все вражеские замки!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        },
+        "es": {
+            "name": "Mini 2",
+            "objective": "Derrota al comandante enemigo y ocupa todos sus castillos!",
+            "objectives": [
+                {
+                    "id": "noEnemyCommander",
+                    "text": "Kill all enemy commanders"
+                },
+                {
+                    "id": "noEnemyCastle",
+                    "text": "Capture all enemy castles"
+                }
+            ]
+        }
+    }
+}

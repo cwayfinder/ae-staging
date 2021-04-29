@@ -1,0 +1,11225 @@
+[
+  {
+    "id": "skirmish_001_001",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Island cross"
+      },
+      "ru": {
+        "name": "Остров крест"
+      },
+      "es": {
+        "name": "Cruz island"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_002",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "River"
+      },
+      "ru": {
+        "name": "Река"
+      },
+      "es": {
+        "name": "Río"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_003",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Rocky bay"
+      },
+      "ru": {
+        "name": "Скалистая бухта"
+      },
+      "es": {
+        "name": "Bahía rocosa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_004",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Icy path"
+      },
+      "ru": {
+        "name": "Ледяной путь"
+      },
+      "es": {
+        "name": "Camino helado"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_005",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The crossing"
+      },
+      "ru": {
+        "name": "Пересечение"
+      },
+      "es": {
+        "name": "El cruce"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_006",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Frozen friends"
+      },
+      "ru": {
+        "name": "Холодные друзья"
+      },
+      "es": {
+        "name": "Amigos congelados"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_007",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Crossroads"
+      },
+      "ru": {
+        "name": "Перекресток"
+      },
+      "es": {
+        "name": "Cruce de caminos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_008",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Corners"
+      },
+      "ru": {
+        "name": "Уголки"
+      },
+      "es": {
+        "name": "Esquinas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_009",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Peak island"
+      },
+      "ru": {
+        "name": "Остров пик"
+      },
+      "es": {
+        "name": "Cúspide de la isla"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_010",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Waterways"
+      },
+      "ru": {
+        "name": "Водоемы"
+      },
+      "es": {
+        "name": "Vía fluvial"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_011",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Liberty port"
+      },
+      "ru": {
+        "name": "Порт свободы"
+      },
+      "es": {
+        "name": "Puerto de la libertad"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_012",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Winter storm"
+      },
+      "ru": {
+        "name": "Зимний шторм"
+      },
+      "es": {
+        "name": "Tormenta de invierno"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_013",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 11
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Morning star"
+      },
+      "ru": {
+        "name": "Утренняя звезда"
+      },
+      "es": {
+        "name": "Estrella de la mañana"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_014",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The crucible"
+      },
+      "ru": {
+        "name": "Суровое испытание"
+      },
+      "es": {
+        "name": "El crisol"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_015",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Shadow lands"
+      },
+      "ru": {
+        "name": "Теневые земли"
+      },
+      "es": {
+        "name": "Tierras sombrías"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_016",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Crusade"
+      },
+      "ru": {
+        "name": "Крестовый поход"
+      },
+      "es": {
+        "name": "Cruzada"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_017",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Castle"
+      },
+      "ru": {
+        "name": "Замок"
+      },
+      "es": {
+        "name": "Castillo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_018",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mill"
+      },
+      "ru": {
+        "name": "Мельница"
+      },
+      "es": {
+        "name": "Molino"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_019",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Swamp"
+      },
+      "ru": {
+        "name": "Болото"
+      },
+      "es": {
+        "name": "Pantano"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_020",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Duel"
+      },
+      "ru": {
+        "name": "Дуэль"
+      },
+      "es": {
+        "name": "Duelo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_021",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Protection of the castle"
+      },
+      "ru": {
+        "name": "Защита замков"
+      },
+      "es": {
+        "name": "Protección del castillo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_022",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 9
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Snake"
+      },
+      "ru": {
+        "name": "Змея"
+      },
+      "es": {
+        "name": "Serpiente"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_023",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Labyrinth"
+      },
+      "ru": {
+        "name": "Лабиринт"
+      },
+      "es": {
+        "name": "Laberinto"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_024",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Forest trail"
+      },
+      "ru": {
+        "name": "Лесные тропы"
+      },
+      "es": {
+        "name": "Rastro del bosque"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_025",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Nuclear"
+      },
+      "ru": {
+        "name": "Ядерная"
+      },
+      "es": {
+        "name": "Nuclear"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_026",
+    "type": "skirmish",
+    "size": {
+      "width": 9,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Siege 3"
+      },
+      "ru": {
+        "name": "Осада 3"
+      },
+      "es": {
+        "name": "Cerco 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_027",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Accuracy"
+      },
+      "ru": {
+        "name": "Точность"
+      },
+      "es": {
+        "name": "Exactitud"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_028",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Football"
+      },
+      "ru": {
+        "name": "Футбол"
+      },
+      "es": {
+        "name": "Fútbol"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_029",
+    "type": "skirmish",
+    "size": {
+      "width": 8,
+      "height": 8
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Chess 2"
+      },
+      "ru": {
+        "name": "Шахматы 2"
+      },
+      "es": {
+        "name": "Ajedrez 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_030",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Swords"
+      },
+      "ru": {
+        "name": "Шпаги"
+      },
+      "es": {
+        "name": "Espadas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_031",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Water wars"
+      },
+      "ru": {
+        "name": "Водные войны"
+      },
+      "es": {
+        "name": "Guerras por el agua"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_032",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Classic 2"
+      },
+      "ru": {
+        "name": "Классика 2"
+      },
+      "es": {
+        "name": "Classic 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_033",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Glue"
+      },
+      "ru": {
+        "name": "Клей"
+      },
+      "es": {
+        "name": "Pegamento"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_034",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 14
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Principality"
+      },
+      "ru": {
+        "name": "Княжества"
+      },
+      "es": {
+        "name": "Principado"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_035",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Road closures"
+      },
+      "ru": {
+        "name": "Перекрытая дорога"
+      },
+      "es": {
+        "name": "Cierres de carreteras"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_036",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Medium wave"
+      },
+      "ru": {
+        "name": "Средняя волна"
+      },
+      "es": {
+        "name": "Onda media"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_037",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Old castle"
+      },
+      "ru": {
+        "name": "Старый замок"
+      },
+      "es": {
+        "name": "Antiguo castillo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_038",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Water tropics"
+      },
+      "ru": {
+        "name": "Водные тропики"
+      },
+      "es": {
+        "name": "Trópicos agua"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_039",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Atomic"
+      },
+      "ru": {
+        "name": "Атомная"
+      },
+      "es": {
+        "name": "Atómica"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_040",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Pool of blood"
+      },
+      "ru": {
+        "name": "Бассейн крови"
+      },
+      "es": {
+        "name": "Charco de sangre"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_041",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Storm"
+      },
+      "ru": {
+        "name": "Шторм"
+      },
+      "es": {
+        "name": "Tormenta"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_042",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 14
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Invasion"
+      },
+      "ru": {
+        "name": "Вторжение"
+      },
+      "es": {
+        "name": "Invasión"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_043",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 14
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "City"
+      },
+      "ru": {
+        "name": "Город"
+      },
+      "es": {
+        "name": "Ciudad"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_044",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Double punch"
+      },
+      "ru": {
+        "name": "Двойной удар"
+      },
+      "es": {
+        "name": "Doble golpe"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_045",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hold position"
+      },
+      "ru": {
+        "name": "Держать позиции"
+      },
+      "es": {
+        "name": "Mantén la posición"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_046",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The sign of four"
+      },
+      "ru": {
+        "name": "Знак четырех"
+      },
+      "es": {
+        "name": "El signo de los cuatro"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_047",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Insulation"
+      },
+      "ru": {
+        "name": "Изоляция"
+      },
+      "es": {
+        "name": "Aislamiento"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_048",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Classic 1"
+      },
+      "ru": {
+        "name": "Классика 1"
+      },
+      "es": {
+        "name": "Classic 1"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_049",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cycle"
+      },
+      "ru": {
+        "name": "Круговорот"
+      },
+      "es": {
+        "name": "Ciclo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_050",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Flood"
+      },
+      "ru": {
+        "name": "Потоп"
+      },
+      "es": {
+        "name": "Inundación"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_051",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Meeting of the clans"
+      },
+      "ru": {
+        "name": "Собрание кланов"
+      },
+      "es": {
+        "name": "Reunión de los clanes"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_052",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tactics"
+      },
+      "ru": {
+        "name": "Тактика"
+      },
+      "es": {
+        "name": "Táctica"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_053",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tract"
+      },
+      "ru": {
+        "name": "Тракт"
+      },
+      "es": {
+        "name": "Tracto"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_054",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Scythe"
+      },
+      "ru": {
+        "name": "Коса"
+      },
+      "es": {
+        "name": "Guadaña"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_055",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cross"
+      },
+      "ru": {
+        "name": "Кросс"
+      },
+      "es": {
+        "name": "Cruzar"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_056",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Malaysia"
+      },
+      "ru": {
+        "name": "Малайзия"
+      },
+      "es": {
+        "name": "Malasia"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_057",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Balance"
+      },
+      "ru": {
+        "name": "Равновесие"
+      },
+      "es": {
+        "name": "Equilibrio"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_058",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Wall"
+      },
+      "ru": {
+        "name": "Стена"
+      },
+      "es": {
+        "name": "Pared"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_059",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Atlantis"
+      },
+      "ru": {
+        "name": "Атлантида"
+      },
+      "es": {
+        "name": "Atlantis"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_060",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Butterfly"
+      },
+      "ru": {
+        "name": "Бабочка"
+      },
+      "es": {
+        "name": "Mariposa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_061",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "No release"
+      },
+      "ru": {
+        "name": "Без выхода"
+      },
+      "es": {
+        "name": "Sin autorización"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_062",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Rabies"
+      },
+      "ru": {
+        "name": "Бешенство"
+      },
+      "es": {
+        "name": "Rabia"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_063",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Quick end"
+      },
+      "ru": {
+        "name": "Быстрый конец"
+      },
+      "es": {
+        "name": "Final rápida"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_064",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The forever war"
+      },
+      "ru": {
+        "name": "Вечная война"
+      },
+      "es": {
+        "name": "La guerra interminable"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_065",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Water explosion"
+      },
+      "ru": {
+        "name": "Водный взрыв"
+      },
+      "es": {
+        "name": "Explosión del agua"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_066",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "War of ages"
+      },
+      "ru": {
+        "name": "Война века"
+      },
+      "es": {
+        "name": "Guerra de los tiempos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_067",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 14
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "David wade"
+      },
+      "ru": {
+        "name": "Давидов брод"
+      },
+      "es": {
+        "name": "David wade"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_068",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Roads"
+      },
+      "ru": {
+        "name": "Дороги"
+      },
+      "es": {
+        "name": "Carreteras"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_069",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Forgotten glade"
+      },
+      "ru": {
+        "name": "Забытая поляна"
+      },
+      "es": {
+        "name": "Ha olvidado glade"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_070",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The lost city"
+      },
+      "ru": {
+        "name": "Затерянный город"
+      },
+      "es": {
+        "name": "The lost city"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_071",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cycle 2"
+      },
+      "ru": {
+        "name": "Круговорот 2"
+      },
+      "es": {
+        "name": "Ciclo 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_072",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Crossroads of destinies"
+      },
+      "ru": {
+        "name": "Перекресток судеб"
+      },
+      "es": {
+        "name": "Cruce de destinos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_073",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Berlin 1945"
+      },
+      "ru": {
+        "name": "Берлин 1945"
+      },
+      "es": {
+        "name": "Berlín 1945"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_074",
+    "type": "skirmish",
+    "size": {
+      "width": 7,
+      "height": 7
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Siege"
+      },
+      "ru": {
+        "name": "Осада"
+      },
+      "es": {
+        "name": "Cerco"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_075",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Parquet"
+      },
+      "ru": {
+        "name": "Паркет"
+      },
+      "es": {
+        "name": "Parquet"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_076",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Parquet 2"
+      },
+      "ru": {
+        "name": "Паркет2"
+      },
+      "es": {
+        "name": "Parquet 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_077",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "On opposite sides"
+      },
+      "ru": {
+        "name": "По разные стороны"
+      },
+      "es": {
+        "name": "En lados opuestos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_078",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Swamp 2"
+      },
+      "ru": {
+        "name": "Болото 2"
+      },
+      "es": {
+        "name": "Pantano 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_079",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Female conspiracy"
+      },
+      "ru": {
+        "name": "Женский заговор"
+      },
+      "es": {
+        "name": "Conspiración Mujer"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_080",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "On the island"
+      },
+      "ru": {
+        "name": "На острове"
+      },
+      "es": {
+        "name": "En la isla"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_081",
+    "type": "skirmish",
+    "size": {
+      "width": 8,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "River 2"
+      },
+      "ru": {
+        "name": "Река 2"
+      },
+      "es": {
+        "name": "Río 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_082",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Depression"
+      },
+      "ru": {
+        "name": "Уныние"
+      },
+      "es": {
+        "name": "Depresión"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_083",
+    "type": "skirmish",
+    "size": {
+      "width": 7,
+      "height": 7
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Arena 1"
+      },
+      "ru": {
+        "name": "Арена 1"
+      },
+      "es": {
+        "name": "Arena 1"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_084",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Arena 2"
+      },
+      "ru": {
+        "name": "Арена 2"
+      },
+      "es": {
+        "name": "Arena 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_085",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Arena 3"
+      },
+      "ru": {
+        "name": "Арена 3"
+      },
+      "es": {
+        "name": "Arena 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_086",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Battle Mountain"
+      },
+      "ru": {
+        "name": "Битва в горах"
+      },
+      "es": {
+        "name": "Battle Mountain"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_087",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Big water"
+      },
+      "ru": {
+        "name": "Большая вода"
+      },
+      "es": {
+        "name": "Big water"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_088",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Riot"
+      },
+      "ru": {
+        "name": "Буйство"
+      },
+      "es": {
+        "name": "Alboroto"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_089",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Ancient temple"
+      },
+      "ru": {
+        "name": "Древний храм"
+      },
+      "es": {
+        "name": "Antiguo templo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_090",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dumbbell"
+      },
+      "ru": {
+        "name": "Гантеля"
+      },
+      "es": {
+        "name": "Pesa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_091",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "City 3"
+      },
+      "ru": {
+        "name": "Город 3"
+      },
+      "es": {
+        "name": "Ciudad 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_092",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mountains"
+      },
+      "ru": {
+        "name": "Горы"
+      },
+      "es": {
+        "name": "Montañas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_093",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Long journey"
+      },
+      "ru": {
+        "name": "Далекое путешествие"
+      },
+      "es": {
+        "name": "Viaje largo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_094",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "To the bitter end"
+      },
+      "ru": {
+        "name": "До последней капли крови"
+      },
+      "es": {
+        "name": "Hasta la muerte"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_095",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Friendly support"
+      },
+      "ru": {
+        "name": "Дружеская поддержка"
+      },
+      "es": {
+        "name": "Ayuda cómoda"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_096",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Conspiracy"
+      },
+      "ru": {
+        "name": "Заговор"
+      },
+      "es": {
+        "name": "Conspiración"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_097",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 17
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Battle of megacities"
+      },
+      "ru": {
+        "name": "Битва мегаполисов"
+      },
+      "es": {
+        "name": "Batalla de las megaciudades"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_098",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Classic 4"
+      },
+      "ru": {
+        "name": "Классика 4"
+      },
+      "es": {
+        "name": "Clásico 4"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_099",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Classic 3"
+      },
+      "ru": {
+        "name": "Классика 3"
+      },
+      "es": {
+        "name": "Clásico 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_100",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Down"
+      },
+      "ru": {
+        "name": "Спуск"
+      },
+      "es": {
+        "name": "Abajo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_101",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Empty pockets"
+      },
+      "ru": {
+        "name": "Безденежье"
+      },
+      "es": {
+        "name": "Vacíe los bolsillos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_102",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cycle 3"
+      },
+      "ru": {
+        "name": "Круговорот 3"
+      },
+      "es": {
+        "name": "Ciclo 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_103",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Battle of Kulikovo"
+      },
+      "ru": {
+        "name": "Куликовская битва"
+      },
+      "es": {
+        "name": "Batalla de Kulikovo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_104",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Masters"
+      },
+      "ru": {
+        "name": "Мастера"
+      },
+      "es": {
+        "name": "Masters"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_105",
+    "type": "skirmish",
+    "size": {
+      "width": 3,
+      "height": 3
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mini 1"
+      },
+      "ru": {
+        "name": "Мини 1"
+      },
+      "es": {
+        "name": "Mini 1"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_106",
+    "type": "skirmish",
+    "size": {
+      "width": 5,
+      "height": 5
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mini 2"
+      },
+      "ru": {
+        "name": "Мини 2"
+      },
+      "es": {
+        "name": "Mini 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_107",
+    "type": "skirmish",
+    "size": {
+      "width": 8,
+      "height": 8
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Chess 3"
+      },
+      "ru": {
+        "name": "Шахматы 3"
+      },
+      "es": {
+        "name": "Ajedrez 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_108",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Flood 2"
+      },
+      "ru": {
+        "name": "Потоп 2"
+      },
+      "es": {
+        "name": "Inundación 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_109",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Destination"
+      },
+      "ru": {
+        "name": "Пункт назначения"
+      },
+      "es": {
+        "name": "Destino"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_110",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Chateau on the lake"
+      },
+      "ru": {
+        "name": "Замок на озере"
+      },
+      "es": {
+        "name": "Chateau on the lake"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_111",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Through drifts"
+      },
+      "ru": {
+        "name": "Сквозь сугробы"
+      },
+      "es": {
+        "name": "A través de derivas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_112",
+    "type": "skirmish",
+    "size": {
+      "width": 6,
+      "height": 6
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Regret"
+      },
+      "ru": {
+        "name": "Сожаление"
+      },
+      "es": {
+        "name": "Lamentar"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_113",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Spiral"
+      },
+      "ru": {
+        "name": "Спираль"
+      },
+      "es": {
+        "name": "Espiral"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_114",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Middle ages"
+      },
+      "ru": {
+        "name": "Средневековье"
+      },
+      "es": {
+        "name": "Edad media"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_115",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Elements"
+      },
+      "ru": {
+        "name": "Стихии"
+      },
+      "es": {
+        "name": "Elementos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_116",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Test card"
+      },
+      "ru": {
+        "name": "Тестовая карта"
+      },
+      "es": {
+        "name": "Tarjeta de la prueba"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_117",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hurricane"
+      },
+      "ru": {
+        "name": "Ураган"
+      },
+      "es": {
+        "name": "Huracán"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_118",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Ridge"
+      },
+      "ru": {
+        "name": "Хребет"
+      },
+      "es": {
+        "name": "Cresta"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_119",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Reloj"
+      },
+      "ru": {
+        "name": "Часы"
+      },
+      "es": {
+        "name": "Clock"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_120",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Four king"
+      },
+      "ru": {
+        "name": "Четыре Короля"
+      },
+      "es": {
+        "name": "Cuatro rey"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_121",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Chess 4"
+      },
+      "ru": {
+        "name": "Шахматы 4"
+      },
+      "es": {
+        "name": "Ajedrez 4"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_122",
+    "type": "skirmish",
+    "size": {
+      "width": 8,
+      "height": 8
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Checkers"
+      },
+      "ru": {
+        "name": "Шашки"
+      },
+      "es": {
+        "name": "Damas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_123",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Epos"
+      },
+      "ru": {
+        "name": "Эпос"
+      },
+      "es": {
+        "name": "Epopeya"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_124",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cities"
+      },
+      "ru": {
+        "name": "Города"
+      },
+      "es": {
+        "name": "Ciudades"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_125",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dock"
+      },
+      "ru": {
+        "name": "Док"
+      },
+      "es": {
+        "name": "Muelle"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_126",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Siege 2"
+      },
+      "ru": {
+        "name": "Осада 2"
+      },
+      "es": {
+        "name": "Cerco 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_127",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Reinforcements"
+      },
+      "ru": {
+        "name": "Подкрепление"
+      },
+      "es": {
+        "name": "Refuerzos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_128",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dragon quest"
+      },
+      "ru": {
+        "name": "Поиск драконов"
+      },
+      "es": {
+        "name": "Dragon quest"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_129",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 5
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Through the crowd"
+      },
+      "ru": {
+        "name": "Сквозь толпу"
+      },
+      "es": {
+        "name": "A través de la multitud"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_130",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The concentration"
+      },
+      "ru": {
+        "name": "Сосредоточенье"
+      },
+      "es": {
+        "name": "Сосредоточенье"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_131",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The sleeping area"
+      },
+      "ru": {
+        "name": "Спальный район"
+      },
+      "es": {
+        "name": "El área de dormir"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_132",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Weathervane"
+      },
+      "ru": {
+        "name": "Флюгер"
+      },
+      "es": {
+        "name": "Veleta"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_133",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "DOTA"
+      },
+      "ru": {
+        "name": "DOTA"
+      },
+      "es": {
+        "name": "DOTA"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_134",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The war in the quarry"
+      },
+      "ru": {
+        "name": "Война в каменоломне"
+      },
+      "es": {
+        "name": "La guerra en la cantera de"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_135",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Enchanted realm"
+      },
+      "ru": {
+        "name": "Зачарованное место"
+      },
+      "es": {
+        "name": "Encantada lugar"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_136",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Square bagel"
+      },
+      "ru": {
+        "name": "Квадратный бублик"
+      },
+      "es": {
+        "name": "Cuadrado de una rosca de pan"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_137",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Barrier"
+      },
+      "ru": {
+        "name": "Преграда"
+      },
+      "es": {
+        "name": "Barrera"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_138",
+    "type": "skirmish",
+    "size": {
+      "width": 18,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Ancient Empire"
+      },
+      "ru": {
+        "name": "Древняя империя"
+      },
+      "es": {
+        "name": "El antiguo imperio"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_139",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Under attack"
+      },
+      "ru": {
+        "name": "Под ударом"
+      },
+      "es": {
+        "name": "Bajo el golpe de la"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_140",
+    "type": "skirmish",
+    "size": {
+      "width": 25,
+      "height": 25
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Street World-82"
+      },
+      "ru": {
+        "name": "Улица Мира-82"
+      },
+      "es": {
+        "name": "Calle De La Paz-82"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_141",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "WoW"
+      },
+      "ru": {
+        "name": "WoW"
+      },
+      "es": {
+        "name": "WoW"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_142",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Madness"
+      },
+      "ru": {
+        "name": "Безумие"
+      },
+      "es": {
+        "name": "La locura"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_143",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "A no compromise solution"
+      },
+      "ru": {
+        "name": "Бескомпромиссное решение"
+      },
+      "es": {
+        "name": "Sin compromisos de solución"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_144",
+    "type": "skirmish",
+    "size": {
+      "width": 18,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The battle for the city"
+      },
+      "ru": {
+        "name": "Битва за город"
+      },
+      "es": {
+        "name": "La batalla por la ciudad"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_145",
+    "type": "skirmish",
+    "size": {
+      "width": 10,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The fighters against evil"
+      },
+      "ru": {
+        "name": "Борцы со злом"
+      },
+      "es": {
+        "name": "Los luchadores contra el mal"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_146",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Venice"
+      },
+      "ru": {
+        "name": "Венеция"
+      },
+      "es": {
+        "name": "Venecia"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_147",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Water trails"
+      },
+      "ru": {
+        "name": "Водные тропинки"
+      },
+      "es": {
+        "name": "Agua senderos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_148",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The competition"
+      },
+      "ru": {
+        "name": "Соревнование"
+      },
+      "es": {
+        "name": "La competición"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_149",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The war lords"
+      },
+      "ru": {
+        "name": "Война лордов"
+      },
+      "es": {
+        "name": "Los señores de la guerra"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_150",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Station"
+      },
+      "ru": {
+        "name": "Вокзал"
+      },
+      "es": {
+        "name": "Estación de tren"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_151",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dizziness"
+      },
+      "ru": {
+        "name": "Головокружение"
+      },
+      "es": {
+        "name": "Mareos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_152",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "City 2"
+      },
+      "ru": {
+        "name": "Города 2"
+      },
+      "es": {
+        "name": "De la ciudad 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_153",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mountain 2"
+      },
+      "ru": {
+        "name": "Горы 2"
+      },
+      "es": {
+        "name": "Montaña 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_154",
+    "type": "skirmish",
+    "size": {
+      "width": 23,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Friendship"
+      },
+      "ru": {
+        "name": "Дружба"
+      },
+      "es": {
+        "name": "La amistad"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_155",
+    "type": "skirmish",
+    "size": {
+      "width": 18,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Protected bridges"
+      },
+      "ru": {
+        "name": "Защищенные мосты"
+      },
+      "es": {
+        "name": "Protegidos de los puentes"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_156",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Death"
+      },
+      "ru": {
+        "name": "Смерть"
+      },
+      "es": {
+        "name": "La muerte"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_157",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 25
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Evil"
+      },
+      "ru": {
+        "name": "Зло"
+      },
+      "es": {
+        "name": "El mal"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_158",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Winding road"
+      },
+      "ru": {
+        "name": "Извилистая дорога"
+      },
+      "es": {
+        "name": "El sinuoso camino"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_159",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Squares"
+      },
+      "ru": {
+        "name": "Квадраты"
+      },
+      "es": {
+        "name": "Cuadrados"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_160",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 25
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Team"
+      },
+      "ru": {
+        "name": "Команда"
+      },
+      "es": {
+        "name": "El equipo de"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_161",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Continents"
+      },
+      "ru": {
+        "name": "Континенты"
+      },
+      "es": {
+        "name": "Los continentes"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_162",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Control"
+      },
+      "ru": {
+        "name": "Контроль"
+      },
+      "es": {
+        "name": "El control de la"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_163",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Kingdom"
+      },
+      "ru": {
+        "name": "Королевства"
+      },
+      "es": {
+        "name": "Unido"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_164",
+    "type": "skirmish",
+    "size": {
+      "width": 23,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The fortress"
+      },
+      "ru": {
+        "name": "Крепость"
+      },
+      "es": {
+        "name": "La fortaleza"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_165",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Cross 2"
+      },
+      "ru": {
+        "name": "Крест 2"
+      },
+      "es": {
+        "name": "La cruz 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_166",
+    "type": "skirmish",
+    "size": {
+      "width": 23,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Labyrinth 2"
+      },
+      "ru": {
+        "name": "Лабиринт 2"
+      },
+      "es": {
+        "name": "El laberinto de 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_167",
+    "type": "skirmish",
+    "size": {
+      "width": 24,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Laguna"
+      },
+      "ru": {
+        "name": "Лагуна"
+      },
+      "es": {
+        "name": "La laguna"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_168",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Legend"
+      },
+      "ru": {
+        "name": "Легенда"
+      },
+      "es": {
+        "name": "La leyenda"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_169",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 8
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Forest mountains"
+      },
+      "ru": {
+        "name": "Лес против гор"
+      },
+      "es": {
+        "name": "El bosque de las montañas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_170",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Forest snake"
+      },
+      "ru": {
+        "name": "Лесные змеи"
+      },
+      "es": {
+        "name": "Forestales de la serpiente"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_171",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dead land"
+      },
+      "ru": {
+        "name": "Мертвая земля"
+      },
+      "es": {
+        "name": "Muerta la tierra"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_172",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Mess"
+      },
+      "ru": {
+        "name": "Месиво"
+      },
+      "es": {
+        "name": "Un mash-up"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_173",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Fantasy world"
+      },
+      "ru": {
+        "name": "Мир фантазий"
+      },
+      "es": {
+        "name": "El mundo de fantasía"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_174",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "World"
+      },
+      "ru": {
+        "name": "Мир"
+      },
+      "es": {
+        "name": "El mundo"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_175",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Moscow"
+      },
+      "ru": {
+        "name": "Москва"
+      },
+      "es": {
+        "name": "Moscú"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_176",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The offensive"
+      },
+      "ru": {
+        "name": "Наступление"
+      },
+      "es": {
+        "name": "La ofensiva"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_177",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The lake"
+      },
+      "ru": {
+        "name": "Озеро"
+      },
+      "es": {
+        "name": "El lago"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_178",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Shackles"
+      },
+      "ru": {
+        "name": "Оковы"
+      },
+      "es": {
+        "name": "Las cadenas de"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_179",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The siege of the capital"
+      },
+      "ru": {
+        "name": "Осада столицы"
+      },
+      "es": {
+        "name": "El asedio de la capital"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_180",
+    "type": "skirmish",
+    "size": {
+      "width": 24,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Islands 2"
+      },
+      "ru": {
+        "name": "Острова 2"
+      },
+      "es": {
+        "name": "La isla 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_181",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Whitening"
+      },
+      "ru": {
+        "name": "Отбеливание"
+      },
+      "es": {
+        "name": "El blanqueamiento"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_182",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hermits"
+      },
+      "ru": {
+        "name": "Отшельники"
+      },
+      "es": {
+        "name": "Ermitaños"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_183",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "A very severe test"
+      },
+      "ru": {
+        "name": "Очень суровое испытание"
+      },
+      "es": {
+        "name": "Muy dura prueba"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_184",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Difficult choice"
+      },
+      "ru": {
+        "name": "Сложный выбор"
+      },
+      "es": {
+        "name": "Difícil elección"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_185",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Crossroads 2"
+      },
+      "ru": {
+        "name": "Перекресток 2"
+      },
+      "es": {
+        "name": "El cruce 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_186",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Free style"
+      },
+      "ru": {
+        "name": "Свободный стиль"
+      },
+      "es": {
+        "name": "Estilo libre"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_187",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Ghost"
+      },
+      "ru": {
+        "name": "Призрак"
+      },
+      "es": {
+        "name": "El fantasma de la"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_188",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tag 2"
+      },
+      "ru": {
+        "name": "Пятнашки 2"
+      },
+      "es": {
+        "name": "Corre que te pillo 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_189",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Equal conditions"
+      },
+      "ru": {
+        "name": "Равные условия"
+      },
+      "es": {
+        "name": "Igualdad de condiciones"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_190",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Grille"
+      },
+      "ru": {
+        "name": "Решетка"
+      },
+      "es": {
+        "name": "La parrilla"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_191",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Sborka"
+      },
+      "ru": {
+        "name": "Сборка3"
+      },
+      "es": {
+        "name": "Сборка3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_192",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Holy war"
+      },
+      "ru": {
+        "name": "Святая война"
+      },
+      "es": {
+        "name": "La guerra santa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_193",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Holy War"
+      },
+      "ru": {
+        "name": "Священная Война"
+      },
+      "es": {
+        "name": "La Guerra Santa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_194",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tale"
+      },
+      "ru": {
+        "name": "Сказка"
+      },
+      "es": {
+        "name": "El cuento"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_195",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Stalingrad 1"
+      },
+      "ru": {
+        "name": "Сталинград 1"
+      },
+      "es": {
+        "name": "Stalingrado 1"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_196",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Stalingrad 2"
+      },
+      "ru": {
+        "name": "Сталинград 2"
+      },
+      "es": {
+        "name": "Stalingrad 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_197",
+    "type": "skirmish",
+    "size": {
+      "width": 21,
+      "height": 21
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Stalingrad 3"
+      },
+      "ru": {
+        "name": "Сталинград 3"
+      },
+      "es": {
+        "name": "Stalingrado 3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_198",
+    "type": "skirmish",
+    "size": {
+      "width": 18,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Stalingrad 4"
+      },
+      "ru": {
+        "name": "Сталинград 4"
+      },
+      "es": {
+        "name": "Stalingrado 4"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_199",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Steppe"
+      },
+      "ru": {
+        "name": "Степь"
+      },
+      "es": {
+        "name": "Estepa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_200",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 11
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The Highest Collision"
+      },
+      "ru": {
+        "name": "Столкновение Высших"
+      },
+      "es": {
+        "name": "El Choque De Instituciones De"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_201",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Pontoons"
+      },
+      "ru": {
+        "name": "Понтоны"
+      },
+      "es": {
+        "name": "Los pontones"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_202",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 22
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Tactic 2"
+      },
+      "ru": {
+        "name": "Тактика 2"
+      },
+      "es": {
+        "name": "Táctica 2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_203",
+    "type": "skirmish",
+    "size": {
+      "width": 14,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The front"
+      },
+      "ru": {
+        "name": "Фронт"
+      },
+      "es": {
+        "name": "Frente"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_204",
+    "type": "skirmish",
+    "size": {
+      "width": 22,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Halloween"
+      },
+      "ru": {
+        "name": "Хеллоуин"
+      },
+      "es": {
+        "name": "Halloween"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_205",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "DOTA2"
+      },
+      "ru": {
+        "name": "DOTA2"
+      },
+      "es": {
+        "name": "DOTA2"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_206",
+    "type": "skirmish",
+    "size": {
+      "width": 25,
+      "height": 25
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "DOTA3"
+      },
+      "ru": {
+        "name": "DOTA3"
+      },
+      "es": {
+        "name": "DOTA3"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_207",
+    "type": "skirmish",
+    "size": {
+      "width": 20,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "DOTA4"
+      },
+      "ru": {
+        "name": "DOTA4"
+      },
+      "es": {
+        "name": "DOTA4"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_208",
+    "type": "skirmish",
+    "size": {
+      "width": 25,
+      "height": 25
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "DOTA5"
+      },
+      "ru": {
+        "name": "DOTA5"
+      },
+      "es": {
+        "name": "DOTA5"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_209",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Quick combat"
+      },
+      "ru": {
+        "name": "Быстрая схватка"
+      },
+      "es": {
+        "name": "Rápida scrum"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_210",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 11
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Star wars"
+      },
+      "ru": {
+        "name": "Звездные войны"
+      },
+      "es": {
+        "name": "La guerra de las galaxias"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_211",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Straight"
+      },
+      "ru": {
+        "name": "Напрямик"
+      },
+      "es": {
+        "name": "Fuera de carretera"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_212",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 10
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Peninsula"
+      },
+      "ru": {
+        "name": "Полуостров"
+      },
+      "es": {
+        "name": "La península de"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_213",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Discord"
+      },
+      "ru": {
+        "name": "Раздор"
+      },
+      "es": {
+        "name": "La discordia"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_214",
+    "type": "skirmish",
+    "size": {
+      "width": 12,
+      "height": 16
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The rush"
+      },
+      "ru": {
+        "name": "Спешка"
+      },
+      "es": {
+        "name": "La prisa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_215",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Flag"
+      },
+      "ru": {
+        "name": "Флаг"
+      },
+      "es": {
+        "name": "La bandera"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_216",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Balls"
+      },
+      "ru": {
+        "name": "Шары"
+      },
+      "es": {
+        "name": "Las bolas"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_217",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "King defender"
+      },
+      "ru": {
+        "name": "Защита короля"
+      },
+      "es": {
+        "name": "La protección del rey"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_218",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Winter"
+      },
+      "ru": {
+        "name": "Зима"
+      },
+      "es": {
+        "name": "El invierno"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_219",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Heap"
+      },
+      "ru": {
+        "name": "Куча мала"
+      },
+      "es": {
+        "name": "Un montón de pequeña"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_220",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The ice"
+      },
+      "ru": {
+        "name": "Ледовое побоище"
+      },
+      "es": {
+        "name": "Ледовое una masacre"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_221",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Bridges"
+      },
+      "ru": {
+        "name": "Мосты"
+      },
+      "es": {
+        "name": "Los puentes"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_222",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 20
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The defense of the river"
+      },
+      "ru": {
+        "name": "Оборона реки"
+      },
+      "es": {
+        "name": "La defensa del río"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_223",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Went"
+      },
+      "ru": {
+        "name": "Поехали"
+      },
+      "es": {
+        "name": "Fuimos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_224",
+    "type": "skirmish",
+    "size": {
+      "width": 17,
+      "height": 12
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Playground"
+      },
+      "ru": {
+        "name": "Спортивная площадка"
+      },
+      "es": {
+        "name": "Cancha deportiva"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_225",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "In the forest"
+      },
+      "ru": {
+        "name": "В лесу"
+      },
+      "es": {
+        "name": "En el bosque"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_226",
+    "type": "skirmish",
+    "size": {
+      "width": 11,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Water-ways"
+      },
+      "ru": {
+        "name": "Водяные пути"
+      },
+      "es": {
+        "name": "De agua en el camino"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_227",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "To win"
+      },
+      "ru": {
+        "name": "До победы"
+      },
+      "es": {
+        "name": "Hasta la victoria"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_228",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Flooded"
+      },
+      "ru": {
+        "name": "Заполонили"
+      },
+      "es": {
+        "name": "Invadido"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_229",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 18
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "From afar"
+      },
+      "ru": {
+        "name": "Издалека"
+      },
+      "es": {
+        "name": "De lejos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_230",
+    "type": "skirmish",
+    "size": {
+      "width": 13,
+      "height": 13
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "The art of war"
+      },
+      "ru": {
+        "name": "Искусство войны"
+      },
+      "es": {
+        "name": "El arte de la guerra"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_231",
+    "type": "skirmish",
+    "size": {
+      "width": 19,
+      "height": 19
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "TIC-TAC-toe"
+      },
+      "ru": {
+        "name": "Крестики-нолики"
+      },
+      "es": {
+        "name": "Tic-tac-toe"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_232",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Perimeter defense"
+      },
+      "ru": {
+        "name": "Круговая оборона"
+      },
+      "es": {
+        "name": "Circular de la defensa"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_233",
+    "type": "skirmish",
+    "size": {
+      "width": 15,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Islands"
+      },
+      "ru": {
+        "name": "Островки"
+      },
+      "es": {
+        "name": "Los islotes de"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  },
+  {
+    "id": "skirmish_001_234",
+    "type": "skirmish",
+    "size": {
+      "width": 16,
+      "height": 15
+    },
+    "players": [
+      {
+        "id": 1,
+        "type": "human",
+        "teamId": 1,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 2,
+        "type": "ai",
+        "teamId": 2,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 3,
+        "type": "ai",
+        "teamId": 3,
+        "unitLimit": 25,
+        "money": 200
+      },
+      {
+        "id": 4,
+        "type": "ai",
+        "teamId": 4,
+        "unitLimit": 25,
+        "money": 200
+      }
+    ],
+    "i18n": {
+      "en": {
+        "name": "Sandy spit"
+      },
+      "ru": {
+        "name": "Песчаная коса"
+      },
+      "es": {
+        "name": "De arena de la ciudad de kos"
+      },
+      "zh": {
+        "name": null
+      }
+    }
+  }
+]
