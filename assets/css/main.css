@@ -82,35 +82,10 @@ input, select, a img {
 }
 
 @font-face {
-  font-family: 'main-font';
-  src: url('../font/RittswoodRedStar_8.ttf');
-}
-
-@font-face {
-  font-family: 'big-pixel-font';
-  src: url('../font/PressStart2P.ttf');
-}
-
-@font-face {
-  font-family: 'Courier New';
-  src: url('../font/courier.ttf');
-}
-
-body {
-  color: #f0f0f0;
-  background-color: #242a45;
-  line-height: 135%;
-  letter-spacing: 0.05rem;
-}
-
-.font-pixel {
-  font-family: 'main-font', 'Lucida Grande', monospace;
-}
-
-.font-lucida {
-  font-family: "Lucida Console", Monaco, monospace;
-}
-
-.font-courier {
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Changa';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/assets/fonts/changa.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
